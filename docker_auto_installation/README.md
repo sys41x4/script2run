@@ -23,4 +23,4 @@ wget https://raw.githubusercontent.com/sys41x4/script2run/main/docker_auto_insta
 ```
 ---
 ### Screenshots
-![Debian Screenshot](/assets/screenshots/screenshot_debian.jpg)
+![Debian Screenshot](assets/screenshots/screenshot_debian.jpg)
