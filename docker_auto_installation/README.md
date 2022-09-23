@@ -1,5 +1,6 @@
 # DOCKER AUTO INSTALLATION
 ---
+**Script Name:** docker_auto_install.sh<br>
 **CREATOR:** ARIJIT BHOWMICK<br>
 **TESTED ON:** GNU/Linux<br>
 
@@ -18,7 +19,8 @@
 
 Auto download and run
 ```bash
-
-
+wget https://raw.githubusercontent.com/sys41x4/script2run/main/docker_auto_installation/docker_auto_install.sh -O /tmp/docker_auto_install.sh && chmod +x /tmp/docker_auto_install.sh && /bin/bash /tmp/docker_auto_install.sh
 ```
-
+---
+### Screenshots
+![Debian Screenshot](/assets/screenshots/screenshot_debian.jpg)
